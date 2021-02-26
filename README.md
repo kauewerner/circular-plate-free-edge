@@ -10,3 +10,7 @@ The code was validated with the results presented in the following papers:
 - Itao, K., & Crandall, S. H. (1979). Natural modes and natural frequencies of uniform, circular, free-edge plates.
 - Amabili, M., Pasqualini, A., & Dalpiaz, G. (1995). Natural frequencies and modes of free-edge circular plates vibrating in vacuum or in contact with liquid. Journal of sound and vibration, 188(5), 685-699.
 
+Dependencies:
+- numpy
+- scipy (optimize, special)
+- matplotlib
