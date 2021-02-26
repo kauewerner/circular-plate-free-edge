@@ -36,6 +36,7 @@ optional arguments:
   -o [OUTPUTPATH], --outputPath [OUTPUTPATH]
                         Export natural frequencies results. Default = '.'
 
+By Kaue Werner, 2021
 """
 import os
 import sys
